@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+logs/
+SchemaFiles/
+*.pyc
+*.spec
+*.egg-info/
